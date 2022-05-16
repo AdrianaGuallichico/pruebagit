@@ -4,3 +4,4 @@ conficando en c+b
 funcion 1
 cuerpo de la funcion 
 fin de la funcion1
+codificacion de duncion para imprimir los resusltados 
